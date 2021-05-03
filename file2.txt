@@ -1,6 +1,0 @@
-name 
-
-1.mango
-2.apple
-3.pineapple
-4.fruit
